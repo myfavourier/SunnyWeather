@@ -16,6 +16,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.sunnyweather.R
 import com.example.sunnyweather.databinding.ActivityMainBinding
 import com.example.sunnyweather.databinding.FragmentPlaceBinding
+import com.sunnyweather.android.ui.place.PlaceAdapter
 import java.util.EnumSet.of
 import java.util.List.of
 
